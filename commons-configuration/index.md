@@ -8,4 +8,4 @@
 
 ## Table of contents
 
-- [快速开始](quick_start_guide.md)
+- * [快速开始](quick_start_guide.md)
